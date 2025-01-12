@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Ada programming. Ada uses 1-based indexing for arrays, unlike some other languages that use 0-based indexing. This difference can lead to errors when programmers aren't careful.
